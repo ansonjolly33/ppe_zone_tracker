@@ -1,0 +1,25 @@
+# Virtual Environments (Crucial!)
+ppe_env/
+venv/
+.venv/
+env/
+
+# Videos and Media
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Datasets
+test/
+train/
+valid/
+dataset/
+
+# Model Weights & Logs
+*.pt
+*.onnx
+*.engine
+violations_log/
+runs/
+__pycache__/
